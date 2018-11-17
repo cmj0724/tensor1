@@ -14,3 +14,6 @@ t2 = Test()
 t2.move(1,1)
 print(t2.calc_distance(t1))
 
+
+
+

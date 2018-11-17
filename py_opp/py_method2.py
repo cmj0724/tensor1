@@ -1,4 +1,2 @@
-class py_method2(object):
-    """description of class"""
-
-
+import math
+class Test:
